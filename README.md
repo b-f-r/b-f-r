@@ -2,6 +2,8 @@
 
 Welcome to my github!
 
+Here are the github docs: https://docs.github.com/
+
 <!--
 **b-f-r/b-f-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
